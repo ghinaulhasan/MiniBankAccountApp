@@ -6,5 +6,7 @@ Mini Bank Account Application Design (Window Form); Using C# (Object Oriented Pr
 
 <img width="511" height="226" alt="imp45" src="https://github.com/user-attachments/assets/cc427421-68a4-463b-9462-e6340c8e6901" />
 
+<img width="510" height="223" alt="33333" src="https://github.com/user-attachments/assets/f403ba83-3f3b-45a7-bbb5-87248de8251b" />
+
 
 
